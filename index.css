@@ -1,0 +1,73 @@
+.cajaLogin{
+    width: 400px;
+    height: 500px;
+    background-color:lightskyblue;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow:-2px 14px 17px 6px rgba (0,0,0,0.75);
+    
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+    text-align: center;
+    
+    
+}
+
+
+
+.iniciarSesion{
+    color:black;
+    margin-top: 40px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inputPassword{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 10px;
+}
+
+.inputUsuario{
+    
+    margin-top: 100px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-radius: 10px;
+}
+
+.boton{
+
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    
+    margin-top: 30px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 30px;
+    width: 120px;
+}
+
+.a{
+    display: block;
+    margin-top: 30px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
